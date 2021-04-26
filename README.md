@@ -1,6 +1,6 @@
  ## <div align=center> 👋 Hi there 👋 </div>
 
-
+<br>
 I'm a **frontend developer** freshly out of school, based in France (Rouen). 
 
 :sparkles: I’m currently looking for a opportunity.
