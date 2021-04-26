@@ -5,6 +5,8 @@ I'm a **frontend developer** freshly out of school, based in France (Rouen).
 <br>
 <br>
 
+### My skills
+
 :sparkles: I’m currently looking for a opportunity. <br>
 :heart_eyes_cat: Discover my [Curriculum Vitae](https://drive.google.com/file/d/1zYB_7pVlCNmlBe_Q0xeHSFRZum2sSehL/view) <br>
 :point_right: Contact me at dava.clemence@gmail.com
