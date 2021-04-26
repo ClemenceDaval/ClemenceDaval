@@ -1,7 +1,7 @@
  ## <div align=center> 👋 Hi there 👋 </div>
 
 <br>
-I'm Clémence, a newly __frontend developer__ based in Rouen (France). My Github profile is still under construction.  
+I'm Clémence, a newly **frontend developer** based in Rouen (France). My Github profile is still under construction.  
 <br>
 <br>
 
