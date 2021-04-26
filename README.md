@@ -3,6 +3,7 @@
 <br>
 I'm a **frontend developer** freshly out of school, based in France (Rouen). 
 <br>
+<br>
 
 :sparkles: I’m currently looking for a opportunity. <br>
 :heart_eyes_cat: Discover my [Curriculum Vitae](https://drive.google.com/file/d/1zYB_7pVlCNmlBe_Q0xeHSFRZum2sSehL/view) <br>
