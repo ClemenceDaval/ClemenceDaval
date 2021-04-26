@@ -1,4 +1,11 @@
-<div align=center> ### Hi there 👋 </div>
+<div align=center> Hi there 👋 </div>
+
+I'm a **frontend developer** freshly out of school, based in France (Rouen). 
+
+:sparkles: I’m currently looking for a opportunity.
+:heart_eyes_cat: Discover my [Curriculum Vitae](https://drive.google.com/file/d/1zYB_7pVlCNmlBe_Q0xeHSFRZum2sSehL/view)
+:point_right:
+
 
 <!--
 **ClemenceDaval/ClemenceDaval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
