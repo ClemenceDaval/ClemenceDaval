@@ -1,4 +1,5 @@
 <div align=center> Hi there 👋 </div>
+
 ***
 
 I'm a **frontend developer** freshly out of school, based in France (Rouen). 
