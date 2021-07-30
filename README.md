@@ -18,3 +18,4 @@ I'm *Clémence*, a newly **frontend developer** based in Rouen (France). My Gith
 - Redux
 - PHP
 - Lumens
+- Symfony (currently learning)
